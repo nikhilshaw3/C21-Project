@@ -1,4 +1,3 @@
-//creating global variables
 var bullet;
 var speed,weight;
 var wall,thickness;
